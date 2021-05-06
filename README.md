@@ -13,5 +13,5 @@
 
 - Amazing Toy Project JAVA: https://github.com/tuyentran8121997/AmazingToyProject
 - E-Commerce Project HTML CSS JS: https://tuyentran8121997.github.io/shoes-shop/
-- Amazing Shoes Project PHP: 
-- Bit Auction Galarey Project C#: 
+- Amazing Shoes Project PHP: https://github.com/tuyentran8121997/heaven-shoes
+- Bit Auction Galarey Project C#: https://github.com/tuyentran8121997/eProject

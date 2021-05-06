@@ -11,7 +11,8 @@
 
 ## Projects for learning
 
-- Amazing Toy Project JAVA: https://github.com/tuyentran8121997/AmazingToyProject
+- Demo Product page shopee HTML CSS: https://tuyentran8121997.github.io/demo-shopee/
 - E-Commerce Project HTML CSS JS: https://tuyentran8121997.github.io/shoes-shop/
+- Amazing Toy Project JAVA: https://github.com/tuyentran8121997/AmazingToyProject
 - Amazing Shoes Project PHP: https://github.com/tuyentran8121997/heaven-shoes
 - Bit Auction Galarey Project C#: https://github.com/tuyentran8121997/eProject
